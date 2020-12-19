@@ -29,4 +29,4 @@ Conclusions:<br>
 2.From our Analysis we found that Eden GArden Hosted maximum no. of IPL matches.<br>
 3.Clearly teams like Chennai Super Kings, Kolkata Knight Riders and Mumbai Indians have better win percentage when they win toss. <br>
 4. we can say that in Season 2013 maximum no. of runs are scored with an average of 296.5 runs per match<br>
-This is a descriptive analysis. you can find the details about this work in the blog : <br>
+This is a descriptive analysis. you can find the details about this work in the blog :https://shivaae.medium.com/indian-premier-league-13-years-analysis-32b14e58b83 <br>
