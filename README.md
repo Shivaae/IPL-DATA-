@@ -1,5 +1,5 @@
 # IPL-DATA-
-AnalySis on IPL DATA OF 13 YEARS
+Analysis on IPL DATA OF 13 YEARS
 
 Udacity project This project is part of Udacity Nano degree program for Data scientists. this project requires to write a Blog Post on a choosen topic and perform data analysis on a data set to answer 3-5 business/data questions. I have choosen IPL dataset to complete this project.
 
@@ -19,14 +19,14 @@ Matplotlib for visualization Notebook contains visuals to explain all the analys
 Seaborn also for Visualization to explain analysis
 Objectives: Questions related to the data set that will be answered here : 
 
-1. We will see   total matches  played by each team and their winning percentage that will tell us which team have more winning percentage? 
-2. Which Stadium Hosted max number of matches?
-3.How toss affects the outcome of the game?
+1. We will see   total matches  played by each team and their winning percentage that will tell us which team have more winning percentage? <br>
+2. Which Stadium Hosted max number of matches? <br>  
+3. How toss affects the outcome of the game?<br>
 4. In which IPL Season maximum no. of runs are scored?
 
 Conclusions:
-1.WE can conclude that MUMBAI INDIANS have won maximum no. of matches and their winning percentage is also highest,so we can say that MUMBAI INDIANS is the most succesful team of IPL.
-2.From our Analysis we found that Eden GArden Hosted maximum no. of IPL matches.
-3.Clearly teams like Chennai Super Kings, Kolkata Knight Riders and Mumbai Indians have better win percentage when they win toss. 
-4. we can say that in Season 2013 maximum no. of runs are scored with an average of 296.5 runs per match
-This is a descriptive analysis. you can find the details about this work in the blog : 
+1.WE can conclude that MUMBAI INDIANS have won maximum no. of matches and their winning percentage is also highest,so we can say that MUMBAI INDIANS is the most succesful team of IPL.<br>
+2.From our Analysis we found that Eden GArden Hosted maximum no. of IPL matches.<br>
+3.Clearly teams like Chennai Super Kings, Kolkata Knight Riders and Mumbai Indians have better win percentage when they win toss. <br>
+4. we can say that in Season 2013 maximum no. of runs are scored with an average of 296.5 runs per match<br>
+This is a descriptive analysis. you can find the details about this work in the blog : <br>
