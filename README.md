@@ -1,2 +1,2 @@
 # IPL-DATA-
-Analyis on IPL DATA OF 13 YEARS
+AnalySis on IPL DATA OF 13 YEARS
