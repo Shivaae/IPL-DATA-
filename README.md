@@ -8,7 +8,7 @@ This year IPL completed 13 years, in-spite of Covid-19 and unavailability of fan
 Files in this repository:
  
 Readme file<br>
-IPL DATASET.ipynb : Jupitor Notebook containing all the analysis and code<br>
+IPL DATASET.ipynb : Jupyter Notebook containing all the analysis and code<br>
 deliveries.csv : csv file containing ball by ball data for 13 years of IPL Games.<br>
 matches.csv : CSV file containing each match result, teams, winner, umpire, venue etc.. <br>
 Details about the  jupyter notebook: Analysis is performed using Libraries mentioned below:-<br>
