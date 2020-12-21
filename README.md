@@ -1,4 +1,4 @@
-Analysis on IPL DATA OF 13 YEARS<br><br>
+ANALYSIS ON IPL DATA OF 13 YEARS<br><br>
  This project is part of Udacity Nano degree program for Data scientist. This project requires to write a Blog Post on a choosen topic and perform data analysis on a data set to answer 3-5 business/data questions. I have choosen IPL dataset to complete this project.<br>
 
 BUSINESS UNDERSTANDING <br><br>
