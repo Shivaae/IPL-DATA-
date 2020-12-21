@@ -4,7 +4,7 @@ ANALYSIS ON IPL DATA OF 13 YEARS<br><br>
 BUSINESS UNDERSTANDING <br><br>
 In this we will understand what how we can find out certain aspects related to our IPL DATA like how to find the effects of toss in a match and many more.<br>
 I have chosen IPL dataset to complete this project.<br>
-This year IPL completed 13 years, in-spite of Covid-19 and unavailability of fans doesnt effected the popularity of IPL.In IPL 8 teams played matches against each other and at the end of the league stage 4 Teams qualify , for further matches and one of them emerges as winner.<br>
+This year IPL completed 13 years, in-spite of Covid-19 and unavailability of fans doesnt effected the popularity of IPL.In IPL 8 teams played matches against each other and at the end of the league stage 4 Teams qualify , for further matches and one of them emerges as winner.<br><br><br>
 BUSINESS QUESTIONS <br><br>
 1.We will see total matches played by each team and their winning percentage that will tell us which team have more winning percentage?<br>
 2.Which Stadium Hosted max number of matches?<br>
