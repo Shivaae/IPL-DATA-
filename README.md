@@ -36,6 +36,10 @@ EVALUATION<br><br>
 3.Clearly teams like Chennai Super Kings, Kolkata Knight Riders and Mumbai Indians have better win percentage when they win toss.<br>
 4. we can say that in Season 2013 maximum no. of runs are scored with an average of 296.5 runs per match<br>
 
+ACKNOWLEDGEMENT<br> 
+Dataset is taken from Kaggle . A huge thanks to KAGGLE for making this Dataset public. Here is the link  for the dataset:<br>
+IPL Complete Dataset (2008-2020) - https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020<br>
+
 You can find the details about this work in the blog :https://shivaae.medium.com/indian-premier-league-13-years-analysis-32b14e58b835 <br>
 The Github link to see the code is https://github.com/Shivaae/IPL-DATA- <br>
 
